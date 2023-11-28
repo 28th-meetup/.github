@@ -1,5 +1,12 @@
-# 🍱 집밥도착 🍱
 
+# 집밥도착 <img src="https://github.com/28th-meetup/.github/assets/86800087/acd248f8-be43-4ae5-b460-5d18e2ad86ce" align=left width=100>
+
+> 해외 교민을 위한 한식 집밥(반찬 및 반조리 식품) 판매 플랫폼 🍱 
+
+
+<br></br>
+
+## 💭 ADS
 >  `집밥도착`은 해외 교민들이 저렴하고 간편하게 한식 집밥을 맛볼 수 있도록 반찬 및 반조리 식품을 판매하는 서비스입니다. 
 >  한식 집밥을 판매하는 반찬가게와 교민들을 연결하여 한식을 쉽게 주문할 수 있도록 합니다. 
 
@@ -8,10 +15,11 @@
 
 <img width="1920" alt="2" src="https://github.com/kusitms-com/28th_Semi_README/assets/81168401/bf3653ad-21c4-4754-9ea6-687f102d3194">
 
-<br>
+
+<br></br>
 
 
-## 핵심 기능
+## 📍 핵심 기능
     
 ![edit4](https://github.com/28th-meetup/28th_Meetup_FE/assets/86800087/acae02ee-6af8-42c5-84b8-1a82ff8dbc78)
 ![기능](https://github.com/28th-meetup/28th_Meetup_FE/assets/86800087/88742e81-b2b3-4182-ae6e-b69ce4adcc49)
@@ -23,7 +31,7 @@
 ![기능7](https://github.com/28th-meetup/28th_Meetup_FE/assets/86800087/fa0bb092-692d-4dbc-9393-62d4ae161bdf)
 
     
-<br>
+<br></br>
 
 ## 🎨 디자인 무드보드
 
@@ -35,13 +43,13 @@
 ## 🖥️ 시스템 아키텍처
 ![image](https://github.com/28th-meetup/28th_semi_README/assets/81168401/5cfef6a5-184a-4918-a645-04423d03a457)
 
-<br>
+<br></br>
 
 ## 📁 Entity-Relationship Diagram
 
 <img width="1034" alt="erd 최종" src="https://github.com/28th-meetup/28th_semi_README/assets/81168401/a2452b11-3d2d-4be1-ac78-f7392a586e4a">
 
-<br>
+<br></br>
 
 ## 🛠️ 기술스택
 
@@ -68,13 +76,10 @@
 
 ## 🙌 R&R
 
-| 분야 | 이름 | 포지션 |
-| --- | --- | --- |
-| 기획 | 김준석 | PM & 서비스 기획 / 프로젝트 관리, 프로덕트 기획 (기획안 담당) |
-| 기획 | 송하은 | 기획 리드 & 서비스 기획 / 프로덕트 기획 (화면 담당) |
-| 기획 | 이지영 | 서비스 기획 / 프로덕트 기획 (기능 담당) |
-| 디자인 | 조은정 | 디자인 / 서비스 브랜딩, 프로덕트 디자인 |
-| 개발 | 신승균 | 개발 리드 & 안드로이드 / 서비스 개발 |
-| 개발 | 피유진 | 안드로이드 /  서비스 개발 |
-| 개발 | 김영빈 | 서버 / 서비스 개발 |
-| 개발 | 이수민 | 서버 /  서비스 개발 |
+<div align="center">
+  
+| 신승균 <br/> [@cityshin](https://github.com/cityshin) | 피유진 <br/> [@PIYUJIN](https://github.com/PIYUJIN) | 김영빈 <br/> [@eckrin](https://github.com/eckrin) | 이수민 <br/> [@summit45](https://github.com/summit45) |
+|:--:|:--:|:--:|:--:|
+| <img src="https://avatars.githubusercontent.com/cityshin"  width=200> | <img src="https://avatars.githubusercontent.com/PIYUJIN"  width=200> | <img src="https://avatars.githubusercontent.com/eckrin"  width=200> | <img src="https://avatars.githubusercontent.com/summit45"  width=200> |
+
+</div>
